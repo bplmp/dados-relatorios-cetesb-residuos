@@ -5,4 +5,4 @@ Dados extraídos do [Inventário Estadual de Resíduos Sólidos Urbanos
 
 Veja a análise dos dados: [Um mapa da origem e destino do lixo em São Paulo](https://medium.com/@medidasp/mapa-origem-destino-lixo-sao-paulo-cadcbf80bda8).
 
-Elaboração Bernardo Loureiro | [Medida SP](http://wwww.medidasp.com).
+Elaboração Bernardo Loureiro | [Medida SP](http://www.medidasp.com).
